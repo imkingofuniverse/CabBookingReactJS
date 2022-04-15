@@ -1,0 +1,28 @@
+.supc{
+    padding: 20px;
+    justify-content: center;
+    text-align: left;
+    background-color: rgb(124, 194, 203);
+    color: rgb(5, 5, 5);
+    width: 300px;
+    border-radius: 20px;  
+
+
+    position: absolute;
+    top: 210px;;
+    bottom: 180px;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+    
+  }
+  .submitbutton{
+      text-align: center;
+  }
+  
+  #signup{
+      justify-content: center;
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: 600;
+  }

@@ -1,0 +1,31 @@
+.left{
+    position: absolute;
+    top: 150px;
+    left: 300px;
+    width:400px;
+    height: 300px;
+}
+.bottom-right{
+    
+    position: absolute;
+    top:150px;
+    left:800px;
+    width: 400px;
+    height: 300px;
+}
+.bottom-left{
+    background-color: rgb(124, 194, 203);
+    position: absolute;
+    top:450px;
+    left:300px;
+    width:400px;
+    height: 220px;
+}
+.right{
+    background-color: rgb(124, 194, 203);
+    position: absolute;
+    top: 450px;
+    left: 800px;
+    width: 400px;
+    height: 220px;
+}
